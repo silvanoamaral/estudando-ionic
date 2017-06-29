@@ -5,3 +5,4 @@ Estudando framework Ionic
 * NodeJS
 * NPM
 
+npm install -g ionic cordova
