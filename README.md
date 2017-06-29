@@ -1,4 +1,4 @@
-# estudando-ionic
+# Framework Ionic
 Estudando framework Ionic
 
 # Pré-requisitos
