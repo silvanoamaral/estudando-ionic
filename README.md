@@ -6,4 +6,4 @@ Estudando framework Ionic
 * NPM
 ## Instalando o Ionic
 
-npm install -g ionic cordova
+npm install -g cordova ionic
